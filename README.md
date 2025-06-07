@@ -247,3 +247,5 @@ The original source videos of DAVIS come from the val set, and are also licensed
 Unless required by applicable law or agreed to in writing, all software and materials distributed here under the Apache 2.0 or CC-BY licenses are distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the licenses for the specific language governing permissions and limitations under those licenses.
 
 This is not an official Google product.
+
+- I will be using this repo to learn and understand the working of this TAP net by google that is able to track objects in real time.
